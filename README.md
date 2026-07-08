@@ -1,4 +1,4 @@
-# Latent-Variable-Arbiter-PUF
+# Latent-Variable-Arbiter-PUF+ Hamming PUF
 Latent Variable Arbiter PUF
 # Latent Variable Modeling for Arbiter PUFs
 
